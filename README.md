@@ -7,4 +7,6 @@ For this assignment, I used a data set from kaggle.com and downloaded the csv
 
 https://www.kaggle.com/karangadiya/fifa19
 
+-pandas -kaggle -matplotlib -numpy -datascience
+
 This project is educational purposes only.
